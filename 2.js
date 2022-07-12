@@ -1,1 +1,1 @@
-console.log(金金);
+console.log('jinjin');
